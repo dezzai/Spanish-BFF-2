@@ -1,5 +1,5 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GNU-blue)](https://github.com/dezzai/Spanish-BFF/blob/main/LICENSE)
-# Spanish-BFF
+# Spanish-BFF-2
 
 Avaliable in Hugging Face https://huggingface.co/datasets/MMG/SpanishBFF2
 
